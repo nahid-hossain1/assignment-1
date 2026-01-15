@@ -237,5 +237,15 @@ color: #001931;
     font-size: 12px;
     font-weight: 400;
     text-align: center;
-    color: #627085;
+    color: #8bc8dd;
+}
+.brain{
+    width: 1600px;
+    height: 600px;
+    /* justify-content: center; */
+    background-color: #8eaece;
+}
+.brain .brain-section{
+    display: flex;
+
 }
