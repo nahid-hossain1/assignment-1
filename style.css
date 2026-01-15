@@ -243,7 +243,7 @@ color: #001931;
     width: 1600px;
     height: 600px;
     /* justify-content: center; */
-    background-color: #8eaece;
+    /* background-color: #8eaece; */
 }
 .brain .brain-section{
     display: flex;
